@@ -3,3 +3,4 @@
 🏫 College of Computer, National University of Defense Technology in Changsha, China.  
 ⭐ I’m currently learning in audio and multimodal-LLM.  
 🎓 Looking forward to the day when I become a PhD(2028).  
+📢 August 1, 2025: The AudioSet-R paper was accepted by the ACM MM2025 Dataset Track(***CCF-A***).
